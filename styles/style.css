@@ -1,0 +1,23 @@
+/* @import url('https://fonts.googleapis.com/css2? family=Bungee&display=swap'); */
+*{
+  margin: 0;
+}
+
+/* body
+{
+  font-family: 'Bungee', cursiva !important;
+} */
+
+body{
+  background: rgb(243, 241, 241);
+}
+
+img{
+  border-radius: 100px;
+  margin: 15px;
+}
+
+input[type='file']
+{
+  margin: 10px;
+}
